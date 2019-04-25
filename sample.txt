@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 1 
 2 yamasakiazusa
+=======
+1 masuda 
+2 
+>>>>>>> f4f0ea157ff8da127b5a1bdaa92e188e58d15c68
 3 
 4 
 
