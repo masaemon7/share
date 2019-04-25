@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1 masuda , ì‡éR
 2 È´òÊ©ÅE,mint
 3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
@@ -31,3 +32,14 @@
 3
 4
 >>>>>>> 53bf0939e67bbec79415fe3b7383e0d7496cacad
+=======
+1 masuda, uchiyama
+2 takahashi, mint, shiena 
+3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+4 chiku, aaaa, uchida
+5
+6 ishii
+7 chiku
+8ÇΩÇ‹Ç´ÇÒ
+>>>>>>> 11a4b69a6545b75bcf4fe2500f8ca777bf505602
+9Å@Ç∑Ç¨ÇøÇ·ÇÒ
