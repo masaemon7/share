@@ -1,4 +1,135 @@
+<<<<<<< HEAD
 1  
 2 
 3 
 4 okokok
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD252525252525(~~) <‚µ‚É‚Í‚²[
+<<<<<<< HEAD252525252525(~~) <‚µ‚É‚Í‚²[
+<<<<<<< HEAD252525252525(~~) <‚µ‚É‚Í‚²[
+<<<<<<< HEAD252525252525(~~) <‚µ‚É‚Í‚²[
+<<<<<<< HEAD252525252525(~~) <‚µ‚É‚Í‚²[
+1 
+2 
+<<<<<<< HEAD
+3 
+4 
+=======
+1 masuda 
+2 é«˜æ©E
+3 
+4 ’m‹v
+>>>>>>> 057e2ef5328172fe6a939dff8ec125737d13dd8a
+
+
+
+
+=======
+3 yamasakiazusa
+=======
+1 masuda 
+<<<<<<< HEAD
+2 é«˜æ©E
+3 
+4 ’m‹v
+=======
+
+2   uchida
+
+3 yamasakiazusa iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+
+1 masuda 
+<<<<<<< HEAD
+<<<<<<< HEAD
+2 é«˜æ©E
+3 
+4 ‚Ó‚§`````````````````````````````````
+
+=======
+>>>>>>> 1a08e22989342a96e57c70be59d54caeaadf1311
+=======
+<<<<<<< HEAD
+2 
+>>>>>>> f4f0ea157ff8da127b5a1bdaa92e188e58d15c68
+<<<<<<< HEAD
+
+=======
+=======
+1 masuda
+>>>>>>> 9698aa46e01a8e5d0703488dbd2af6f2293a6e43
+2 é«˜æ©E
+3 yamasakiazusa
+4 ’m‹v, aaaa
+=======
+
+2
+
+3 yamasakiazusa iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+
+1 masuda 
+
+ 
+4 ’m‹v
+>>>>>>> a9457faa2cf4e118e690d575470fde536f2b9fdb
+=======
+3 
+4 
+
+=======
+2 é«˜æ©E
+3 
+>>>>>>> 71e9952d31d11ec8f3ac6f117097a49544ab665f
+=======
+
+ 
+>>>>>>> a9457faa2cf4e118e690d575470fde536f2b9fdb
+4 ’m‹v
+=======
+1 masuda, “àŽR
+2 é«˜æ©E, “àŽR
+3 yamasakiazusa, “àŽR
+4 ’m‹v, aaaa, “àŽR
+>>>>>>> cb637fc179e6d84ec89e390ef844ad8c761315b8
+>>>>>>> 1a08e22989342a96e57c70be59d54caeaadf1311
+=======
+1 masuda , “àŽR
+2 é«˜æ©E,mint
+3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+4 ’m‹v, aaaa
+5 uchida
+=======
+1 masuda , uchiyama
+2 takahashi,mint
+3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+4 chiku, aaaa  uchida
+5
+>>>>>>> 3dd660725b1844725eaeab82ac62cdea73b79183
+6 ishii
+7 chiku
+
+
+<<<<<<< HEAD
+>>>>>>> 843e0855fcfa1df62d839e3cbafdf82983383c80
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+>>>>>>> 7924e20130a7cce61d8c7ffc0ff97259bdc53229
+>>>>>>> 1a08e22989342a96e57c70be59d54caeaadf1311
+=======
+1
+2‚µ‚¦‚È
+3
+4
+>>>>>>> 53bf0939e67bbec79415fe3b7383e0d7496cacad
+>>>>>>> 4f426b53226af7b54d121ab976ff79f802b65e7b
