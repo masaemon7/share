@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 2   uchida
 
@@ -41,7 +42,15 @@
 3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
 4 ’m‹v, aaaa
 5 uchida
+=======
+1 masuda , uchiyama
+2 takahashi,mint
+3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+4 chiku, aaaa  uchida
+5
+>>>>>>> 3dd660725b1844725eaeab82ac62cdea73b79183
 6 ishii
-7
+7 chiku
+
 
 >>>>>>> 7924e20130a7cce61d8c7ffc0ff97259bdc53229
