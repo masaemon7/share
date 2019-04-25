@@ -1,9 +1,57 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+1 masuda , “àŽR
+2 é«˜æ©E,mint
+3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+4 ’m‹v, aaaa
+5
+6 ishii
+7
+
+<<<<<<< HEAD
+2
+
+3 yamasakiazusa iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
+
+1 masuda 
+
+ 
+4 ’m‹v
+<<<<<<< HEAD
+>>>>>>> 057e2ef5328172fe6a939dff8ec125737d13dd8a
+>>>>>>> 71e9952d31d11ec8f3ac6f117097a49544ab665f
+5 ƒwƒCƒwƒC
+6‚½‚ç‚±
+=======
+>>>>>>> a9457faa2cf4e118e690d575470fde536f2b9fdb
+=======
+>>>>>>> 843e0855fcfa1df62d839e3cbafdf82983383c80
+=======
+1
+2‚µ‚¦‚È
+3
+4
+>>>>>>> 53bf0939e67bbec79415fe3b7383e0d7496cacad
+=======
 1 masuda, uchiyama
 2 takahashi, mint, shiena 
 3 yamasakiazusa, iiiiiiiiiiiiiiippeiiiiiiiiiiiiiii
 4 chiku, aaaa, uchida
-5 nomura
+5
 6 ishii
 7 chiku
+<<<<<<< HEAD
 8 tamaki
 9 sugita
+=======
+8‚½‚Ü‚«‚ñ
+>>>>>>> 11a4b69a6545b75bcf4fe2500f8ca777bf505602
+9@‚·‚¬‚¿‚á‚ñ
+=======
+1 aaa
+2 bbb
+3 cc
+4 ddd
+>>>>>>> a3fcebe4fc3fbd8257711682c1cb15342fef09c2
+>>>>>>> 87a79e78104f4b86c73aa3f54ee1b22e8ace5c9a
